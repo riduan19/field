@@ -6,4 +6,6 @@ welcome to riduan stadium
 ticket
 Advertising 
 
+cost
+
 thank you
